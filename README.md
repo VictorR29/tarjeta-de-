@@ -4,6 +4,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
+![Prueba](https://user-images.githubusercontent.com/54075687/176247042-838b7141-c1c8-4164-9d5d-15ecf3147fde.png)
+
+
 ### The challenge
 
 Users should be able to:
